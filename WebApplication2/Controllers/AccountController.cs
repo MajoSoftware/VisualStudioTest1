@@ -143,7 +143,7 @@ namespace WebApplication2.Controllers
         }
 
         //
-        // POST: /Account/Register
+        // POST: /Account/Register bla
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
