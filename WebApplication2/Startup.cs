@@ -8,7 +8,7 @@ namespace WebApplication2
     {
         public void Configuration(IAppBuilder app)
         {
-            ConfigureAuth(app); // bla
+            ConfigureAuth(app); // aanp voor merge ...
         }
     }
 }
